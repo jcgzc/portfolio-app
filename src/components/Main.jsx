@@ -9,12 +9,12 @@ function Main(){
     
         <section id="projects">
             <h2>My Projects</h2>
-            <div class="projects">
-                <div class="project">
+            <div className="projects">
+                <div className="project">
                     <h3>Project One</h3>
                     <p>A brief description of this project. It showcases my skills in frontend and backend development.</p>
                 </div>
-                <div class="project">
+                <div className="project">
                     <h3>Project Two</h3>
                     <p>A brief description of this project. It focuses on responsive design and user experience.</p>
                 </div>
